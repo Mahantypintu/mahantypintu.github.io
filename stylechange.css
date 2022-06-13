@@ -1,0 +1,43 @@
+*{
+ 	margin: 0;
+ 	padding: 0;
+}
+body{
+ 	background: linear-gradient(to right,orange,green);
+ }
+.message{
+   width: 300px;
+   margin: 90px auto 0px auto;
+   padding: 100px;
+   margin-left: 400px;
+}
+.pass{
+ 	background: rgba(0, 0, 0, 0.5);
+ 	width: 110%;
+   height: 150px;
+ 	border: 1px solid rgba(255, 255, 255, 0.4);
+ 	border-radius: 5px;
+   color: white;
+   text-align: center;
+}
+.pass i{
+   font-size: 35px;
+}
+.pass h2{
+   padding: 4px;
+   font-size: 20px;
+}
+.pass p{
+   font-size: 17px;
+}
+.pass button{
+   padding: 7px;
+   margin: 14px;
+   cursor: pointer;
+   background: linear-gradient(to right,orange,green);
+   border: none;
+   border-radius: 3px;
+}
+.pass a{
+   text-decoration: none;
+}

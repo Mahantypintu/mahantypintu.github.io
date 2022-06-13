@@ -1,0 +1,41 @@
+*{
+ 	margin: 0;
+ 	padding: 0;
+}
+body{
+ 	background: linear-gradient(to right,orange,green);
+ }
+.success{
+   width: 300px;
+   margin: 90px auto 0px auto;
+   padding: 100px;
+   margin-left: 400px;
+}
+.msg{
+ 	background: rgba(0, 0, 0, 0.5);
+ 	width: 110%;
+   height: 150px;
+ 	border: 1px solid rgba(255, 255, 255, 0.4);
+ 	border-radius: 5px;
+   color: white;
+   text-align: center;
+}
+.msg i{
+   font-size: 35px;
+}
+.msg h2{
+   font-size: 25px;
+   padding: 10px;
+}
+.msg button{
+   padding: 8px;
+   margin: 20px;
+   cursor: pointer;
+   font-size: 17px;
+   background: linear-gradient(to right,orange,green);
+   border: none;
+   border-radius: 8px;
+}
+.msg a{
+   text-decoration: none;
+}
